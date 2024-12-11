@@ -1,0 +1,19 @@
+{
+    "name": "Asymmetry Finance Token List",
+    "timestamp": "2024-12-11T10:30:00Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "logoURI": "https://www.asymmetry.finance/ASF-32x32.png": [
+        {
+            "chainId": 1,
+            "address": "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa",
+            "name": "Asymmetry Finance",
+            "symbol": "ASF",
+            "decimals": 18,
+            "logoURI": "https://www.asymmetry.finance/ASF-32x32.png"
+        }
+    ]
+}
